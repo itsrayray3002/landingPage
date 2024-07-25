@@ -1,31 +1,24 @@
-Stellar by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+# Personal Homepage
+
+Welcome to my personal homepage! This website showcases information about me, my key projects, and my startup, Noculant Inc.
+
+## Sections
+
+### 1. About Me
+Brief introduction about my background and current role at Headstarter AI.
+
+### 2. My Projects
+- **BTT Amazon Project:** Classified products using BERT and Logistic Regression.
+- **StackCollab:** Mobile app for connecting computer scientists.
+- **Machine Learning Project Plan:** Data preprocessing, model training, and evaluation.
+
+### 3. My Startup
+**Noculant Inc.:**
+NOC is a campus engagement platform streamlining event info and fostering community.
+
+### 4. Get in Touch!
+Contact information for reaching out to me.
 
 
-Say hello to Stellar, a slick little one-pager with a super vibrant color palette (which
-I guess you can always tone down if it's a little too vibrant for you), a "sticky" in-page
-nav bar (powered by my Scrollex plugin), a separate generic page template (just in case
-you need one), and an assortment of pre-styled elements.
-
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
-
-(* = not included)
-
-AJ
-aj@lkn.io | @ajlkn
-
-
-Credits:
-
-	Demo Images:
-		Unsplash (unsplash.com)
-
-	Icons:
-		Font Awesome (fontawesome.io)
-
-	Other:
-		jQuery (jquery.com)
-		Scrollex (github.com/ajlkn/jquery.scrollex)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+## License
+This project is licensed under the terms of the CCA 3.0 license.
