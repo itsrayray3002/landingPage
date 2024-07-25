@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../../Downloads/html5up-fractal"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "landingPage"
+	}
+}
